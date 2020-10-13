@@ -15,7 +15,7 @@
     <version.eclipselink>2.7.3</version.eclipselink>
     <version.h2>1.4.197</version.h2>
     <!-- Test -->
-    <version.junit>4.12</version.junit>
+    <version.junit>4.13.1</version.junit>
     <!-- Maven Plugins -->
     <version.maven.jar.plugin>3.0.2</version.maven.jar.plugin>
     <version.maven.war.plugin>3.2.0</version.maven.war.plugin>
